@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Interested in learning new skills<br>✨ Interested in AI and developing RESTful APIs<br>🐍 Python Backend Developer<br>📚 I'm constantly exploring new topics and technologies to expand my knowledge and improve my craft. Always open to learning and collaborating!
+🔭 Interested in learning new skills<br>✨ Interested in AI and developing RESTful APIs<br>🐍 Python Backend Developer<br>📚 I'm constantly exploring new topics and technologies to expand my knowledge and improve my craft.<br>🤝 Always open to learning and collaborating!
 
 
 ## 🌐 Socials:
