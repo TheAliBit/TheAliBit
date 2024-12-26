@@ -1,4 +1,4 @@
-# __ WELCOME TO MY GITHUB PROFILE __
+# WELCOME TO MY GITHUB PROFILE! 👋
 
 Hi, I'm **TheAliBit**, a passionate developer and game creator.
 
@@ -17,3 +17,6 @@ Hi, I'm **TheAliBit**, a passionate developer and game creator.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAliBit&show_icons=true)
+
+## SKILLS
+[Django REST Framework Logo](https://www.django-rest-framework.org/img/logo.png)
