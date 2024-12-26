@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Interested in learning new skills<br>✨ Interested in AI and developing RESTful APIs<br>🐍 Python Backend Developer<br>🤝 Always here to help
+🔭 Interested in learning new skills<br>✨ Interested in AI and developing RESTful APIs<br>🐍 Python Backend Developer<br>📚 I'm constantly exploring new topics and technologies to expand my knowledge and improve my craft. Always open to learning and collaborating!
 
 
 ## 🌐 Socials:
@@ -14,14 +14,15 @@
 ## 🖥️ Backend Development:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DjangoREST-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white) 
-![RESTAPI](https://img.shields.io/badge/REST%20API-%2361DAFB.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![API](https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![API](https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white) 
+![RESTAPI](https://img.shields.io/badge/REST%20API-%2361DAFB.svg?style=for-the-badge&logo=swagger&logoColor=white) 
+![DjangoREST](https://img.shields.io/badge/DjangoREST-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Pytest](https://img.shields.io/badge/Pytest-%23000%20Tests.svg?style=for-the-badge&logo=pytest&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4) 
-![Pytest](https://img.shields.io/badge/Pytest-%23000%20Tests.svg?style=for-the-badge&logo=pytest&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-%232C2F3E.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%232C2F3E.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white) 
+
 
 ## 🎮 Game Development:
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white) 
