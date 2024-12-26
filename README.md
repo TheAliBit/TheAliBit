@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Interested in learning new skills<br>✨ Interested in AI and developing RESTful APIs<br>🐍 Python Backend Developer<br>📚 I'm constantly exploring new topics and technologies to expand my knowledge and improve my craft.<br>🤝 Always open to learning and collaborating!
+🐍 Python Backend Developer
+🎮 Game Developer
+📹 YouTuber, sharing insights on game development and technology
+📚 Constantly exploring new topics and technologies to expand my knowledge and improve my craft
+🤝 Always open to learning and collaborating!
 
 
 ## 🌐 Socials:
@@ -48,14 +52,3 @@
 ![Java](https://img.shields.io/badge/java-%23F7B924.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![GDScript](https://img.shields.io/badge/GDScript-%23000000.svg?style=for-the-badge&logo=godot&logoColor=white) 
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mamfyou&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mamfyou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mamfyou&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
