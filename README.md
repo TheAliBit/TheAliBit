@@ -1,8 +1,8 @@
 # 💫 About Me:
-🐍 Python Backend Developer
-🎮 Game Developer
-📹 YouTuber, sharing insights on game development and technology
-📚 Constantly exploring new topics and technologies to expand my knowledge and improve my craft
+🐍 Python Backend Developer<br>
+🎮 Game Developer<br>
+📹 YouTuber, sharing insights on game development and technology<br>
+📚 Constantly exploring new topics and technologies to expand my knowledge and improve my craft<br>
 🤝 Always open to learning and collaborating!
 
 
