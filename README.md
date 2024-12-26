@@ -17,14 +17,13 @@
 ![DjangoREST](https://img.shields.io/badge/DjangoREST-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![RESTAPI](https://img.shields.io/badge/REST%20API-%2361DAFB.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![API](https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white) 
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4) 
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Pytest](https://img.shields.io/badge/Pytest-%23000%20Tests.svg?style=for-the-badge&logo=pytest&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-%232C2F3E.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-%232C2F3E.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 ## 🎮 Game Development:
-![GameDev](https://img.shields.io/badge/Game%20Dev-%2331B3D8.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white) 
 ![Godot](https://img.shields.io/badge/Godot-%23000000.svg?style=for-the-badge&logo=godot&logoColor=white) 
 ![GDScript](https://img.shields.io/badge/GDScript-%23000000.svg?style=for-the-badge&logo=godot&logoColor=white) 
@@ -37,13 +36,17 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Vim](https://img.shields.io/badge/Vim-%2300A000.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-%23000F00.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%2300A9F1.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/PyCharm-%233D9EE1.svg?style=for-the-badge&logo=pycharm&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-%23000%20Tests.svg?style=for-the-badge&logo=pytest&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## 🌐 Other Languages:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23F7B924.svg?style=for-the-badge&logo=java&logoColor=white) 
+![GDScript](https://img.shields.io/badge/GDScript-%23000000.svg?style=for-the-badge&logo=godot&logoColor=white) 
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
 
 
 
