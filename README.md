@@ -49,8 +49,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🌐 Other Languages:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-9b4993?logo) 
-![Java](https://img.shields.io/badge/java-%23F7B924.svg?style=for-the-badge&logo=java&logoColor=white) 
-![GDScript](https://img.shields.io/badge/GDScript-%23000000.svg?style=for-the-badge&logo=godot&logoColor=white) 
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-659ad2?logo)
+![C#](https://img.shields.io/badge/-C%23-9b4993?logo)
+![Java](https://img.shields.io/badge/-Java-F89A1B?logo) 
+![GDScript](https://img.shields.io/badge/-GDScript-468CC0?logo) 
+![Lua](https://img.shields.io/badge/-Lua-070B7C?logo) 
