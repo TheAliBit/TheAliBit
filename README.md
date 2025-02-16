@@ -9,14 +9,15 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 <br><br>
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%2300A000.svg?style=flat&logo=vim&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%233D9EE1.svg?style=flat&logo=pycharm&logoColor=white)
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:the.ali8bits@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%2300A9E0.svg?logo=telegram&logoColor=white)](https://t.me/ali8bits)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2304B522.svg?logo=whatsapp&logoColor=white)](https://wa.me/+989390605460)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Ali8Bits)
+
+
+
