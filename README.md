@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![API](https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white) 
 ![RESTAPI](https://img.shields.io/badge/REST%20API-%2361DAFB.svg?style=for-the-badge&logo=swagger&logoColor=white) 
 ![DjangoREST](https://img.shields.io/badge/DjangoREST-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -49,6 +50,7 @@
 
 ## 🌐 Other Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-9b4993?logo) 
 ![Java](https://img.shields.io/badge/java-%23F7B924.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![GDScript](https://img.shields.io/badge/GDScript-%23000000.svg?style=for-the-badge&logo=godot&logoColor=white) 
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
