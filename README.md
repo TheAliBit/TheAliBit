@@ -1,7 +1,8 @@
 # 💫 About Me:
-![Python Backend Developer](https://img.shields.io/badge/python%20Backend%20Developer-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
-![Indie Game Developer](https://img.shields.io/badge/Game%20Developer-951411?style=plastic&logo=gamedeveloper)&nbsp;
-![YouTube Content Creator](https://img.shields.io/badge/YouTube%20Creator-FF2A33?style=plastic&logo=youtube)&nbsp;
+![Python Backend Developer](https://img.shields.io/badge/python%20Backend%20Developer-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![YouTube Content Creator](https://img.shields.io/badge/YouTube%20Content%20Creator-FF2A33?style=for-the-badge&logo=youtube)&nbsp;
+![Indie Game Developer](https://img.shields.io/badge/Indie%20Game%20Developer-951411?style=for-the-badge&logo=gamedeveloper)<br>
+
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:the.ali8bits@gmail.com) 
