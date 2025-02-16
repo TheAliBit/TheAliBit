@@ -1,7 +1,7 @@
 # 💫 About Me:
-![Python Backend Developer](https://img.shields.io/badge/python%20Backend%20Developer-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
-![YouTube Content Creator](https://img.shields.io/badge/YouTube%20Content%20Creator-FF2A33?style=for-the-badge&logo=youtube)<br>
-![Indie Game Developer](https://img.shields.io/badge/Indie%20Game%20Developer-951411?style=for-the-badge&logo=gamedeveloper)<br>
+![Python Backend Developer](https://img.shields.io/badge/python%20Backend%20Developer-3670A0?style=plastic&logo=python&logoColor=ffdd54)<br>
+![YouTube Content Creator](https://img.shields.io/badge/YouTube%20Content%20Creator-FF2A33?style=plastic&logo=youtube)<br>
+![Indie Game Developer](https://img.shields.io/badge/Indie%20Game%20Developer-951411?style=plastic&logo=gamedeveloper)<br>
 🤝 Always open to learning and collaborating!
 
 
