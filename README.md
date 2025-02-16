@@ -2,8 +2,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DjangoREST-%23ff1709.svg?style=flat&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=flat&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%232C2F3E.svg?style=flat&logo=json-web-tokens&logoColor=white)
 
 ![Indie Game Developer](https://img.shields.io/badge/Indie%20Game%20Developer-951411?style=for-the-badge&logo=gamedeveloper)   
 ![Pygame](https://img.shields.io/badge/Pygame-%3670A0.svg?style=flat&logo=pygame&logoColor=white)
