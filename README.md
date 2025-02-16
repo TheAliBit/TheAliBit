@@ -1,6 +1,6 @@
 # 💫 About Me:
-🐍 Python Backend Developer<br>
-🎮 Game Developer<br>
+![Python Backend Developer](https://img.shields.io/badge/python%20Backend%20Developer-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
+![Indie Game Developer](https://img.shields.io/badge/Indie%20Game%20Developer-951411?style=for-the-badge&logo=gamedeveloper)<br>
 📹 YouTuber, sharing insights on game development and technology<br>
 📚 Constantly exploring new topics and technologies to expand my knowledge and improve my craft<br>
 🤝 Always open to learning and collaborating!
