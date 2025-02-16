@@ -1,57 +1,32 @@
-![About Me](https://img.shields.io/badge/About%20Me-fff?style=flat)
-![:](https://img.shields.io/badge/:-fff?style=flat)&nbsp;
-![Python Backend Developer](https://img.shields.io/badge/python%20Backend%20Developer-3670A0?style=falt&logo=python&logoColor=ffdd54)
-![Indie Game Developer](https://img.shields.io/badge/Indie%20Game%20Developer-951411?style=flat&logo=gamedeveloper)
-![YouTube Content Creator](https://img.shields.io/badge/YouTube%20Content%20Creator-FF2A33?style=flat&logo=youtube)
+### About Me:
 
+**Backend Development**  
+![Python Backend Developer](https://img.shields.io/badge/python%20Backend%20Developer-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
+![DjangoREST](https://img.shields.io/badge/DjangoREST-%23ff1709.svg?style=flat&logo=django&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-%232C2F3E.svg?style=flat&logo=json-web-tokens&logoColor=white)  
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=flat&logo=mysql&logoColor=white)  
 
+**Game Development**  
+![Indie Game Developer](https://img.shields.io/badge/Indie%20Game%20Developer-951411?style=for-the-badge&logo=gamedeveloper)  
+![Pygame](https://img.shields.io/badge/Pygame-%3670A0.svg?style=flat&logo=pygame&logoColor=white)  
+![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat&logo=godotengine&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
 
-![Socials](https://img.shields.io/badge/Socials-fff?style=flat)
-![:](https://img.shields.io/badge/:-fff?style=flat)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:the.ali8bits@gmail.com) 
-[![Telegram](https://img.shields.io/badge/Telegram-%2300A9E0.svg?logo=telegram&logoColor=white)](https://t.me/ali8bits) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2304B522.svg?logo=whatsapp&logoColor=white)](https://wa.me/+989390605460) 
+**Tools**  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white)  
+![Vim](https://img.shields.io/badge/Vim-%2300A000.svg?style=flat&logo=vim&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-%233D9EE1.svg?style=flat&logo=pycharm&logoColor=white)  
+
+---
+
+### Socials:  
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:the.ali8bits@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-%2300A9E0.svg?logo=telegram&logoColor=white)](https://t.me/ali8bits)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2304B522.svg?logo=whatsapp&logoColor=white)](https://wa.me/+989390605460)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Ali8Bits)
-
-
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-fff?style=for-the-badge)<br>
-![Backend Development](https://img.shields.io/badge/Backend%20Development-fff?style=flat)
-![:](https://img.shields.io/badge/:-fff?style=flat)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=flat&logo=mysql&logoColor=white) 
-![API](https://img.shields.io/badge/API-%23000000.svg?style=flat&logo=swagger&logoColor=white) 
-![RESTAPI](https://img.shields.io/badge/REST%20API-%2361DAFB.svg?style=flat&logo=swagger&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DjangoREST-%23ff1709.svg?style=flat&logo=django&logoColor=white) 
-![Pytest](https://img.shields.io/badge/Pytest-%23000%20Tests.svg?style=flat&logo=pytest&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=fflat&logo=redis&logoColor=white) 
-![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=flat&logo=celery&logoColor=ddf4a4) 
-![JWT](https://img.shields.io/badge/JWT-%232C2F3E.svg?style=flat&logo=json-web-tokens&logoColor=white) 
-
-
-## 🎮 Game Development:
-![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white) 
-![Godot](https://img.shields.io/badge/Godot-%23000000.svg?style=for-the-badge&logo=godot&logoColor=white) 
-![GDScript](https://img.shields.io/badge/GDScript-%23000000.svg?style=for-the-badge&logo=godot&logoColor=white) 
-
-## 🛠️ General Knowledge:
-![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Vim](https://img.shields.io/badge/Vim-%2300A000.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-%23000F00.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%233D9EE1.svg?style=for-the-badge&logo=pycharm&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
-![Pytest](https://img.shields.io/badge/Pytest-%23000%20Tests.svg?style=for-the-badge&logo=pytest&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-## 🌐 Other Languages:
-![C++](https://img.shields.io/badge/-C++-659ad2?logo)
-![C#](https://img.shields.io/badge/-C%23-9b4993?logo)
-![Java](https://img.shields.io/badge/-Java-F89A1B?logo) 
-![GDScript](https://img.shields.io/badge/-GDScript-468CC0?logo) 
-![Lua](https://img.shields.io/badge/-Lua-070B7C?logo) 
